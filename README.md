@@ -1,2 +1,1 @@
 # gitstudy05
-# GitStudy
